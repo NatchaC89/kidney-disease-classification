@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/end-to-end-mlop/kidney-disease-classification/mlruns/0/f71d510b2e4045c68a7233efa2e3048e/artifacts
+end_time: 1700577608900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f71d510b2e4045c68a7233efa2e3048e
+run_name: redolent-horse-649
+run_uuid: f71d510b2e4045c68a7233efa2e3048e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700577600793
+status: 3
+tags: []
+user_id: User

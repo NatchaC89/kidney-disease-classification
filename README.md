@@ -52,3 +52,8 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/NatchaC89/kidney-disease-classifi
 export MLFLOW_TRACKING_USERNAME=NatchaC89
 export MLFLOW_TRACKING_PASSWORD=439f36b80d315b8c5b503b55f86b80dab409ac25
 ```
+
+### DVC cmd
+1. dvc init
+2. dvc repro
+3. dvc dag
